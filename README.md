@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 [https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://twitter.com/JohnKeysCloud)
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=johnkeydcloud)](https://github.com/johnkeyscloud/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=johnkeyscloud)](https://github.com/johnkeyscloud/github-readme-stats)
