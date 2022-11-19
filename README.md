@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 Skills
-![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,regex,nodejs,git,github,vscode,npm)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,git,github,vscode,bootstrap)
 
 
 ## 📱 Socials
