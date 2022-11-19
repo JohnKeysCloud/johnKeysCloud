@@ -1,21 +1,5 @@
-### Sup :) ✌🏽
-
-
-
-<!--
-**JohnKeysCloud/johnKeysCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Sup :) ✌🏽
+I am a New York City native & multifaceted creative with tech proficiencies. I've developed an avant-garde taste in regard to the design aspect of technological experiences through my enjoyment of gaming, as I stream on Twitch. Experimenting with vanilla code & testing the balance of providing aesthetically gratifying interactivity while maintaining performance, accessibilty & SEO (where applicable) has become a favorite pastime. I strive to learn something new every day as to apply best practices in my work.
 
 ## 🚀 Skills
 ![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,jest,git,github,bootstrap)
@@ -26,6 +10,3 @@ Here are some ideas to get you started:
 
 #### 📝 Silly Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkeyscloud&layout=compact)](https://github.com/johnkeyscloud/github-readme-stats)
-
-
-
