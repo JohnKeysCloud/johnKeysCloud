@@ -1,4 +1,6 @@
-### Hi there 👋
+### Sup :) ✌🏽
+
+
 
 <!--
 **JohnKeysCloud/johnKeysCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 Skills
+[![HTML 5]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://camo.githubusercontent.com/cd7aeb1d7bde60df4cc997570590b18e8ec7b8c0f5c75d13c89dbb6399f4fff5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3333333f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35))](https://www.w3schools.com/html/)[![CSS 3]([https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://camo.githubusercontent.com/b9f4ef8614059822c393175f53ab3fc6e35c93a72d4ad58c19148d6d5c4f078f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3333333f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d313061306463))](https://www.w3schools.com/css/)[![JavaScript]([https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://camo.githubusercontent.com/4cc82f9f181f1ad34aeb4c5e228d391f38e12245a2c8f41c25a6a9775e57fb5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074)](https://www.javascript.com/)
+
 
 ## 📱 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnkeyscloud/)[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/johnkeyscloud)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sMuXrzpKv3)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/johnkeyscloud/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JohnKeysCloud)
