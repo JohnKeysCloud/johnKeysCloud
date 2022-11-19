@@ -1,7 +1,7 @@
 ## Sup :) ✌🏽
 I am a New York City native & multifaceted creative with tech proficiencies. I've developed an avant-garde taste in regard to the design aspect of technological experiences through my enjoyment of gaming, as I stream on Twitch. Experimenting with vanilla code & testing the balance of providing aesthetically gratifying interactivity while maintaining performance, accessibilty & SEO (where applicable) has become a favorite pastime. I strive to learn something new every day as to apply best practices in my work.
 
-### 🚀 Skills
+#### 🚀 Skills
 ![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,jest,git,github,bootstrap)
 
 
