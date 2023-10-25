@@ -1,5 +1,5 @@
 ## Sup :) ✌🏽
-I am a New York City native & multifaceted creative with tech proficiencies. I've developed an avant-garde taste in regard to the design aspect of technological experiences through my enjoyment of gaming. Experimenting with vanilla code & testing the balance of providing aesthetically gratifying interactivity while maintaining performance, accessibilty & SEO (where applicable) has become my mission. I strive to learn something new every day as to apply best practices in my work.
+I am a New York City native & multifaceted creative with tech proficiencies. I've developed an avant-garde taste in regard to the design aspect of technological experiences through my enjoyment of gaming. Experimenting & testing the balance of providing aesthetically gratifying interactivity while maintaining performance, accessibilty, & scalability has become my mission. I strive to learn something new every day as to apply best practices in my work.
 
 📪 [johnkeyscloud@proton.me](mailto:johnkeyscloud@proton.me?subject=[GitHub])
 
