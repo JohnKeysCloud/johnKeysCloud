@@ -11,4 +11,4 @@ I am a New York City native & multifaceted creative with tech proficiencies. I'v
 
 
 ### 🚀 Languages & Tools
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,sass,bootstrap,jest,git,github,discord,webpack,nodejs,vscode,vim)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,sass,bootstrap,webpack,nodejs,jest,git,github,discord,vscode,vim)
