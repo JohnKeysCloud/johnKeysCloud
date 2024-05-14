@@ -7,6 +7,8 @@ Let's create something amazing together 💭
 
 📪 [johnkeyscloud@proton.me](mailto:johnkeyscloud@proton.me?subject=[GitHub])
 
+---
+
 [My Gists](https://gist.github.com/JohnKeysCloud) (contains personally authored, fundamental DSA implementations & more!)
 
 ## 📱 Socials
