@@ -5,7 +5,7 @@ I actively develop applications that leverage the full spectrum of modern web de
 
 Let's create something amazing together 💭
 
-👨🏽‍💻 [My Gists](https://gist.github.com/JohnKeysCloud) (hosts my implementations of fundamental DSA implementations & more!)
+👨🏽‍💻 [My Gists](https://gist.github.com/JohnKeysCloud) (my DSA implementations & more!)
 
 📪 [johnkeyscloud@proton.me](mailto:johnkeyscloud@proton.me?subject=[GitHub])
 
