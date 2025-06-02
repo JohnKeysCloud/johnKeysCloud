@@ -6,7 +6,7 @@ I engineer high-performance, accessible, and SEO-optimized applications using th
 Every day is a new chance to learn, iterate, and create—and I show up for it fully.
 Let’s build something extraordinary together 💭
 
-👨🏽‍💻 [My Gists](https://gist.github.com/JohnKeysCloud) (my DSA implementations & more!)
+👨🏽‍💻 [My Gists](https://gist.github.com/JohnKeysCloud) (some DSA CS stuff)
 
 📪 [johnkeyscloud@proton.me](mailto:johnkeyscloud@proton.me?subject=[GitHub])
 
